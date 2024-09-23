@@ -16,6 +16,11 @@ O objetivo é prever a sobrevivência de pacientes com insuficiência cardíaca.
 https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
 
 
+## Notebook
+
+https://drive.google.com/file/d/1Bn_l0uVc1ZjdisoVJwhRWsuRfN0kMN6R/view?usp=drive_link
+
+
 ## Ambiente
 
 Esse projeto foi desenvolvido em ambiente Linux - Ubuntu 22.04.4 LTS (Jammy Jellyfish)
