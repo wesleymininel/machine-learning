@@ -57,12 +57,7 @@ Esse projeto foi desenvolvido em ambiente Linux - Ubuntu 22.04.4 LTS (Jammy Jell
 
 ### 2. Acessando do Frontend
 
-1. Navegue até o diretório do frontend:
-   ```sh
-   cd front
-   ```
-
-2. Abra o arquivo `index.html` no seu navegador preferido.
+1. Abra o arquivo `machine-learning/front/index.html` no seu navegador preferido com o flask rodando.
 
 
 ## Contribuição
