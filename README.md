@@ -28,24 +28,24 @@ Esse projeto foi desenvolvido em ambiente Linux - Ubuntu 22.04.4 LTS (Jammy Jell
 
 ## Como Executar o Projeto
 
-1. Clone o repositório do Projeto:
-   ```sh
-   git clone https://github.com/wesleymininel/machine-learning.git
-   ```
-
-2. Navegue até o diretório do Projeto:
-   ```sh
-   cd machine-learning/
-   ```
-
-3. Criando o Ambiente ENV via Terminal no ambiente Linux:
+1. Criando o Ambiente ENV via Terminal no ambiente Linux:
    ```sh
    python3 -m venv env
    ```
 
-4. Iniciando o Ambiente ENV via Terminal no ambiente Linux:
+2. Iniciando o Ambiente ENV via Terminal no ambiente Linux:
    ```sh
    source ./env/bin/activate
+   ```
+
+3. Clone o repositório do Projeto:
+   ```sh
+   git clone https://github.com/wesleymininel/machine-learning.git
+   ```
+
+4. Navegue até o diretório do Projeto:
+   ```sh
+   cd machine-learning/
    ```
 
 5. Instale as dependências necessárias:
