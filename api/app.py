@@ -99,7 +99,7 @@ def predict(form: PacienteSchema):
     # Preparando os dados para o modelo
     X_input = PreProcessador.preparar_form(form)
     # Carregando modelo
-    model_path = 'api/MachineLearning/pipelines/rf_hfcr_pipeline.pkl'
+    model_path = 'MachineLearning/pipelines/rf_hfcr_pipeline.pkl'
     # modelo = Model.carrega_modelo(ml_path)
     modelo = Pipeline.carrega_pipeline(model_path)
     # Realizando a predição
