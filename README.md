@@ -45,17 +45,17 @@ Esse projeto foi desenvolvido em ambiente Linux - Ubuntu 22.04.4 LTS (Jammy Jell
 
 4. Navegue até o diretório do Projeto:
    ```sh
-   cd machine-learning/
+   cd machine-learning/api
    ```
 
 5. Instale as dependências necessárias:
    ```sh
-   pip install -r api/requirements.txt
+   pip install -r requirements.txt
    ```
 
 6. Inicie o servidor Flask:
    ```sh
-   flask --app api/app run --debug
+   flask --app app run --debug
    ```
 
    O backend estará disponível em `http://127.0.0.1:5000`.
